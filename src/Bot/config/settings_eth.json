@@ -1,0 +1,48 @@
+{
+  "net" : 97,
+  "network": "bsc",
+  "bsc": {
+    
+  },
+  "ethereum": {
+
+  },
+  "addresses": [    
+    {
+      "token_name": "DAI",
+      "token_address": {
+        "56": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "97": "0xad6d458402f60fd3bd25163575031acdce07538d"
+      }
+    },
+    {
+      "token_name": "USDT",
+      "token_address": {
+        "56": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "97": "0x110a13fc3efe6a245b50102d2d79b3e76125ae83"
+      }
+    },
+    {
+      "token_name": "WETH",
+      "token_address": {
+        "56": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "97": "0xc778417e063141139fce010982780140aa0cd5ab"
+      }
+    },
+    {
+      "token_name": "USDC",
+      "token_address": {
+        "56": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "97": "0xdbc941fec34e8965ebc4a25452ae7519d6bdfc4e"
+      }
+    }
+  ],
+  "function0": [
+    "swapExactTokensForTokens",
+    "swapTokensForExactTokens",
+    "swapExactTokensForTokensSupportingFeeOnTransferTokens"
+  ],
+  "function1": [
+    "swapExactETHForTokens"
+  ]
+}

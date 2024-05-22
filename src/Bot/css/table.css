@@ -1,0 +1,43 @@
+.table {
+  color: rgb(255, 255, 255) !important;
+  font-size: 14px;
+  text-align: left;
+}
+
+.table th {
+  font-size: 16px;
+  text-align: center;
+}
+
+.pagination {
+  margin-top: 30px;
+  font-size: 15px;
+}
+
+.table tbody {
+  color: rgb(206, 86, 6);
+}
+.page-select {
+  font-size: 15px !important;
+}
+
+.MuiAlert-standardSuccess {
+  color: rgb(0, 255, 0)!important;
+  background-color:transparent!important;
+}
+
+.MuiAlert-standardError {
+  color: rgb(255, 0, 0)!important;
+  background-color:transparent!important;
+}
+
+.page-link {
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+
+.scroll-test {
+  width: 300px;
+  overflow-x: scroll;
+}
